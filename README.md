@@ -1,2 +1,2 @@
 # Spiral-Program
-spiral progrsm using java
+spiral program using java
